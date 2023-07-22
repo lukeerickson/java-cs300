@@ -1,0 +1,81 @@
+Schedule and Grade Policies (Syllabus)
+
+CS300 Fall 2021 – UW Madison
+Instructor information
+You have two instructors in this course: Hobbes LeGault (legault@wisc.edu) and Mouna (Ayari ben Hadj) Kacem (ayaribenhadj@wisc.edu) as well as twelve Teaching Assistants and ten Peer Mentors. Please refer to Contacts page for details about contact information, instructor's office hours and TA/mentor consulting hours.
+
+Weekly Schedule
+Note that 9:59AM CDT is the deadline time for all zyBooks readings activities and the Programming Assignments, on the dates listed below. Quizzes are due at 4:59PM CDT, on the dates listed below.
+Weekly Schedule*
+
+WEEKLY TOPICS	ZYBOOKS	ASSESSMENTS and DUE DATES
+01. Procedural Programming*	CH 1* (Wed 9/08)	
+02. Using Objects	CH 2 (Mon 9/13)	Quiz1-1 (Released Tue 9/14, 5:00PM, due Wed 9/15, 4:59PM)
+PROGRAM 1 (Wed 9/15, 09:59PM)
+03. Exception Handling	CH 3 (Mon 9/20)	Quiz1-2 (due Wed 9/22, 4:59PM)
+PROGRAM 2 (Wed 9/22, 09:59PM)
+04. Creating Classes 	CH 4 (Mon 9/27)	Quiz2-1 (due Wed 9/29, 4:59PM)
+PROGRAM 3 (Wed 9/29, 09:59PM)
+05. Inheritance, Interfaces, and Casting	CH 5 (Mon 10/04)	Quiz2-2 (due Wed 10/06, 4:59PM)
+PROGRAM 4 (Wed 10/06, 09:59PM)
+06. Generics and Abstract Data Types	CH 6 (Mon 10/11)	EXAM 1 (Tue 10/12, 5-7PM)
+07. Algorithm Analysis	CH 7 (Mon 10/18)	- NO QUIZ -
+PROGRAM 5 (Wed 10/20, 09:59PM)
+08. Recursion	CH 8 (Mon 10/25)	Quiz 3-1 (due Wed 10/27, 4:59PM)
+PROGRAM 6 (Wed 10/27, 09:59PM)
+09. Sorting and Searching	CH 9 (Mon 11/01)	Quiz3-2 (due Wed 11/03, 4:59PM)
+PROGRAM 7 (Wed 11/03, 09:59PM)
+10. Lists and Iterators	CH 10 (Mon 11/08)	EXAM 2 (Tue 11/09, 5-7PM)
+11. Stacks and Queues	CH 11 (Mon 11/15)	Quiz4-1 (due Wed 11/17, 4:59PM)
+PROGRAM 8 (Wed 11/17, 09:59PM)
+12. Binary Search Trees I	CH 12 (Mon 11/22)	Quiz4-2 (due Wed 11/24, 4:59PM)
+PROGRAM 9 (Wed 11/24, 09:59PM)
+13. Binary Search Trees II + Heaps I	CH 13 (Mon 11/29)	
+14. Heaps II	CH 14 (Mon 12/06)	Quiz5-1 (due Wed 12/08, 4:59PM)
+PROGRAM 10 (Mon 12/06, 09:59PM)
+15. Review		Quiz5-2 (due Wed 12/15, 4:59PM)
+PROGRAM 11 (Mon 12/13, 09:59PM)
+16. Final Exams		EXAM 3 (Mon 12/20, 5:05-7:05PM)
+* Classes start Wed. Sept 8th, do not meet during Thanksgiving Recess Thu & Fri Nov 25-28th, and the last day of class is Thu. Dec 15th.
+
+Learning Outcomes
+Upon successful completion of the course, students will be able to:
+•	Develop a basic understanding of the principles underpinning Object Oriented Programming (OOP) such as inheritance, encapsulation, abstraction, and polymorphism.
+•	Understand Object-Oriented thinking paradigm and be able to apply it to solve large programming assignments in OOP and discuss different alternative solutions.
+•	List and describe common operations for List, Stack, Queue, Priority Queue, Binary Search Tree.
+•	Analyze the time-complexity and compare the Big-Oh O(n) worse case complexity of different Abstract Data Type (ADT) implementations, and the complexity for any data structures and algorithms used to implement those operations.
+•	Identify and properly test all boundary conditions for comprehensive testing of their programs.
+•	Interpret and create a variety of diagrams: Call Stack trace; Stack, Queue, and Tree Data Structures; Recursive call (list or tree), control flow charts, class diagrams, object diagrams, and use-case diagrams.
+•	Develop practical skills and experience in Java language: implement Object-Oriented (multi-class) standalone programs that manage a variety of data storage and retrieval operations.
+
+Grade Composition
+•	Reading and Lecture Participation (10%)
+o	zyBooks Participation and Challenge Activities constitute 5% of your final course grade.  Ensure that the shield icons next to each activity in your zyBook become solid filled to ensure that you fully complete every activity, and that your progress is fully recorded in zyBooks before the deadline.  Participation activities are marked with an Orange P, and are due by the dates noted in the schedule above. Challenge activities are marked with a Blue C, and can be completed any time during the week that are discussed in lecture (so you have up to Sunday of that week to complete them, if you need).  The points for these weekly readings will be normalized so that each week of readings is worth the same number of points.  Your final zyBooks score will be calculated based on 80% of those weekly possible points.  This means that you can miss up to 20% of these zyBooks points due to illness, travel, forgetfulness, etc, and still earn the maximum zyBooks participation score.
+o	Lecture Participation through your lecture's participation module constitutes 5% of your final course grade.  Details about the participation module are provided separately by each instructor. Your final Lecture Participation score will be calculated based on 80% of possible points.  (This means that you can miss up to 20% of Participation points due to illness, travel, forgetfulness, etc, and still earn a full Participation score.)
+•	Programming Assignments (40%)
+There are eleven weekly programming assignments (on non-exam weeks), and each is preceded by a mandatory online pre-assignment quiz.  Pre-assignment Quizzes are submitted electronically through canvas, and Programming Assignment code is submitted electronically through gradescope. This said, the weekly quiz and programming assignment scores (homework) in this course are grouped into weekly chunks and, 40% of your final grade will be determined by your 10 best homework scores.
+•	Unit Quizzes (10%)
+There are two weekly quizzes for each of the five course units. These ten weekly quizzes will be taken on canvas. The best quiz per unit will be worth 2% of your final course score, for a total of 10% of your final grade in this course.
+•	Exams (40%)
+There are THREE exams in this course, designed to periodically assess your learning. The first two exams are each worth 10% of your final course grade, and the third is worth 20% (for a total of 40% of your final course grade).  None of these exams can be dropped. These exams will be taken in-person and include a mix of multiple choice and short answer code writing questions.
+Flexibility and Late Work Policies
+The following course policies are automatically applied to all students' work, but will not be reflected in the canvas gradebook where only the actual on-time scores are recorded.
+•	Participation Flexibility - Each of your participation scores (for readings and lectures) will be calculated based on 80% of the possible weekly points (with NO possibility for extra credit).  This means that you can miss up to 20% of these participation points due to illness, travel, forgetfulness, etc. and still earn the maximum possible score.
+•	Assignment Flexibility - The weekly pre-assignment quiz and programming assignment scores in this course are grouped into weekly chunks.  The worst of these pre-assignment quiz + programming assignment scores will be dropped from the calculation of your final grade in this course. No credit for late quiz submission will be provided. You have to complete every pre-assignment quiz on canvas by Sunday night of the week when it is released.
+•	Unit Quizzes Flexibility - Every unit except the last includes two unit quizzes. No extension will be provided to the deadlines of the weekly unit quizzes. The lowest score of the two quizzes per unit will be dropped from the calculation of your Unit Quizzes grade in this course.
+•	Programming Assignment Deadlines - The posted deadline for every programming assignment is Wednesday night at 09:59PM - CDT.  Since the experience of these assignments is so valuable to CS300 students, we will continue to accept submissions and award full credit for programming assignment submissions that are made up to 24 hours late (through Thursday evening at 09:59PM on all the ten programming assignments).
+•	Beyond the above course policies, WE DO NOT AWARD LATE CREDIT for work that is even one second late.  To avoid last minute difficulties and stress, we recommend always planning to make your final submission 24 hours before the posted deadline.  You are also responsible for maintaining your own backups that are accessible from other machines (in case your primary work station becomes unusable for any reason).
+•	If you do encounter circumstances beyond your control that would otherwise unfairly penalize your grade or progress in this course,  please email your instructor with these specific concerns as soon as you are able to.  Late notifications often limit the options that are available to accommodate such situations.  
+
+Grade Thresholds
+The guaranteed grade thresholds for COMP SCI 300 are as follows:
+A	>= 93%
+AB	>= 88%
+B	>= 80%
+BC	>= 75%
+C	>= 70%
+D	>= 60%
+F	< 60%
+ 
+Note that the grades displayed in the canvas grade book do not reflect all of the flexibility policies listed above, which may improve some grades near these thresholds.
+Before reporting final grades, the course staff will audit the work of students near these thresholds to compare that work to the work of students in the past who earned the same grade or higher.  Based on this audit, the course staff may decide to move one or more of these thresholds down slightly so that these grades are a more consistent reflection of student work across semesters.  But NO CURVE NOR ANY QUOTAS for specific grade counts are considered through this process.

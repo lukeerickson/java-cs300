@@ -1,0 +1,7 @@
+Chapter 5 Inheritance, Interfaces, and Casting
+
+Outline:
+  * Review constructor calls and overloading methods
+  * Explore the main properties related to inheritance, call of the constructor of the super class super(), instanceof operator, overriding methods, etc. through practice examples
+  * Introduce interfaces, the use of interfaces, and how to implement an interface
+  * Introduce casting (upcasting/downcasting) and polymorphism

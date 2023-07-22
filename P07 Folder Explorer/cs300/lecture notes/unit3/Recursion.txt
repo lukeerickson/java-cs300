@@ -1,0 +1,6 @@
+ Outline
+Introduce Recursion
+Learn how to design a recursive algorithm
+Learn how to trace a recursive algorithm
+Learn how to evaluate the running time complexity of a recursive algorithm
+Explore a practice example of recursive thinking
