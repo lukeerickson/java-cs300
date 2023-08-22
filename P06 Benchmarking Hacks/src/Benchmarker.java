@@ -1,6 +1,7 @@
 
 public class Benchmarker {
-
+// Times how long it takes for several methods to guess the password
+// for the lock box
   /**
    * Times how long it takes to brute force the box open
    * 
